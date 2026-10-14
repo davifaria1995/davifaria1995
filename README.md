@@ -1,92 +1,65 @@
-
 <div align="center">
 
-# 👨🏻‍💻 Davi Coelho Faria
+# Davi Coelho Faria
 
-### Aspiring Full Stack Developer | Systems Analysis and Development
+### Software Developer | Web Development & Programming
 
-🎓 Finishing my degree at Unicesumar  
-💻 Learning, building and growing in software development  
-🚀 Looking for my first professional opportunity in tech
+Building projects, solving problems and continuously improving my skills.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-faria-887a411a7/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davifaria1995)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davifaria1995)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-Hello! I'm **Davi Coelho Faria**, a Systems Analysis and Development student at **Unicesumar**, currently finishing my degree.
+I'm Davi Coelho Faria, a developer focused on web development and programming.
 
-I'm passionate about technology and continuously improving my programming skills through academic studies and additional courses.
+I work with **HTML, CSS and Python**, and I'm currently deepening my knowledge of **JavaScript and Java** through additional courses and hands-on practice.
 
-I'm developing my knowledge in both **Front-end and Back-end development**, with the goal of building practical projects, solving problems and gaining real-world experience.
+I'm focused on building practical projects, improving my problem-solving skills and developing clean, functional and well-structured code.
 
-🎯 **My goal is to join a technology team where I can contribute, learn from experienced professionals and grow as a developer.**
+I believe in continuous learning, consistency and learning by building.
 
----
+## Tech Stack
 
-## 🛠️ Technologies & Tools
+**Front-end**
 
-### 🌐 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+**Programming Languages**
 
-### ⚙️ Back-end & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+**Tools**
 
-### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+## Current Focus
 
----
+- Completing my HTML, CSS and JavaScript courses.
+- Improving my programming skills with Python and Java.
+- Building personal projects to apply what I learn.
+- Exploring web development and software engineering.
 
-## 📚 Currently Focused On
+## Featured Projects
 
-- Improving my HTML, CSS and JavaScript skills.
-- Developing my programming knowledge with Java and Python.
-- Learning through courses and hands-on practice.
-- Building projects to strengthen my portfolio.
-- Preparing for professional opportunities in software development.
+I'm working on personal projects to put my knowledge into practice. New projects will be added here as they become available.
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-Davi_Faria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-faria-887a411a7/) [![GitHub](https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davifaria1995)
 
 ---
-
-## 💼 Career Goals
-
-I'm looking for opportunities such as:
-
-- 💻 Software Development Intern
-- 🌐 Front-end Developer Intern / Junior
-- ⚙️ Back-end Developer Intern / Junior
-- 🚀 Full Stack Developer Intern / Junior
-
-I'm motivated to learn, collaborate with a team and turn knowledge into practical solutions.
-
----
-
-## 📫 Let's Connect!
-
-I'm open to networking, learning opportunities and professional connections.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-Davi_Faria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-faria-887a411a7/)
-
-[![GitHub](https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davifaria1995)
-
-**Thanks for visiting my profile!** ⭐
+**Always learning. Always building.**
 
 </div>
